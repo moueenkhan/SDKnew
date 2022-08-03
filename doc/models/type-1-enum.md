@@ -9,5 +9,6 @@
 
 | Name |
 |  --- |
-| `CiscoSparkWebhook` |
+| `TERMSOFSERVICE` |
+| `DIRECTDEBIT` |
 

@@ -9,5 +9,9 @@
 
 | Name |
 |  --- |
-| `Datadog` |
+| `MARKETPLACE` |
+| `MERCHANT` |
+| `SUBMERCHANT` |
+| `CUSTOMER` |
+| `PAYEE` |
 

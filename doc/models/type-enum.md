@@ -9,5 +9,11 @@
 
 | Name |
 |  --- |
-| `AwsS3` |
+| `FACEBOOK` |
+| `TWITTER` |
+| `GOOGLEPLUS` |
+| `LINKEDIN` |
+| `PINTEREST` |
+| `INSTAGRAM` |
+| `SNAPCHAT` |
 
